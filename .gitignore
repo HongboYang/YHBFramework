@@ -2,3 +2,9 @@
 /Client/Library
 /Client/Logs
 /Client/Assembly-CSharp.csproj
+/Server/YHBServer/YHBServer/bin
+/Client/.idea
+/Client/*.vsconfig
+/Client/Temp
+/Client/obj
+/Server/YHBServer/.idea

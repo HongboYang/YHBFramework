@@ -4,3 +4,9 @@ D:\21_Project\22_YHBSample\YHBFramework\Server\YHBServer\YHBServer\bin\Debug\YHB
 D:\21_Project\22_YHBSample\YHBFramework\Server\YHBServer\YHBServer\bin\Debug\YHBServer.pdb
 D:\21_Project\22_YHBSample\YHBFramework\Server\YHBServer\YHBServer\obj\Debug\YHBServer.exe
 D:\21_Project\22_YHBSample\YHBFramework\Server\YHBServer\YHBServer\obj\Debug\YHBServer.pdb
+D:\21_Project\01_Exampler\YHBFramework\Server\YHBServer\YHBServer\bin\Debug\YHBServer.exe
+D:\21_Project\01_Exampler\YHBFramework\Server\YHBServer\YHBServer\bin\Debug\YHBServer.pdb
+D:\21_Project\01_Exampler\YHBFramework\Server\YHBServer\YHBServer\obj\Debug\YHBServer.csprojAssemblyReference.cache
+D:\21_Project\01_Exampler\YHBFramework\Server\YHBServer\YHBServer\obj\Debug\YHBServer.csproj.CoreCompileInputs.cache
+D:\21_Project\01_Exampler\YHBFramework\Server\YHBServer\YHBServer\obj\Debug\YHBServer.exe
+D:\21_Project\01_Exampler\YHBFramework\Server\YHBServer\YHBServer\obj\Debug\YHBServer.pdb

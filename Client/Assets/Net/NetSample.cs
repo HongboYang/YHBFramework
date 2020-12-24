@@ -39,7 +39,8 @@ public class NetSample : MonoBehaviour
         {
             Socket socket = (Socket) ar.AsyncState;
             int count = socket.EndReceive(ar);
-            m_recvStr = System.Text.Encoding.UTF8.GetString(m_readBuff, 0, count);
+            m_recvStr += "\n";
+            m_recvStr += System.Text.Encoding.UTF8.GetString(m_readBuff, 0, count);
             socket.BeginReceive(m_readBuff, 0, 1024, 0, ReceiveCallback, socket);
         }
         catch (Exception e)
